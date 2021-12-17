@@ -1,0 +1,1 @@
+# classwith7method
